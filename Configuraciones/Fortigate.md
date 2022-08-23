@@ -44,3 +44,7 @@ Si queremos habilitar uno o varios, ejecutamos:
     set allowaccess [Protocolo]         // Habilitamos el/los protocolos
     set allowaccess  https ssh ping     //EJEMPLO
 ```
+
+### LINKS DE DOCUMENTACION UTIL
+
+<https://blog.ragasys.es/fortigate-configuracion-inicial-y-puesta-en-marcha>
