@@ -38,7 +38,7 @@ Los **Firewall Fortinet** (también conocidos como firewalls de próxima generac
 
 Si queremos gestionar nuestro FW, podemos habilitar el protocolo que queramos de los siguientes que tenemos disponible.
 
-![](Protocolos de acceso de gestion.png)
+![](PC:\Users\sebas\Documents\Configuraciones de RED\Network_Devices_Configurations\Protocolos de acceso de gestion.png)
 
 Si queremos habilitar uno o varios, ejecutamos:
 
